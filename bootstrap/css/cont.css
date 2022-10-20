@@ -1,0 +1,20 @@
+body {
+    background-image: url("https://jackfruit.com.vn/content/images/2020/08/contactus-1.jpg");
+    background-repeat: no-repeat;
+    background-size:  100% 600px;
+    background-position-y: 140px;
+    
+} 
+.heading_container{
+    color: #F0D43A;
+    text-shadow: 1px 2px 5px black;
+}
+.boder_form{
+    border-radius: 10px;
+    background-color: #fff;
+}
+iframe{
+    width: 300px;
+    height: 140px;
+
+}
